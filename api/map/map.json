@@ -1,0 +1,44 @@
+{
+    "items": [
+        {
+            "group_id": "cafe",
+            "name": "Кафе",
+            "coords": [
+                55.91940008450095,
+                37.75378125190945
+            ],
+            "icon": "images/cafe.png",
+            "id": 1
+        },
+        {
+            "group_id": "cafe",
+            "name": "Кафе",
+            "coords": [
+                55.91692384595694,
+                37.751761548521245
+            ],
+            "icon": "images/cafe.png",
+            "id": 2
+        },
+        {
+            "group_id": "cafe",
+            "name": "Кафе",
+            "coords": [
+                55.91761070176409,
+                37.755964570047574
+            ],
+            "icon": "images/cafe.png",
+            "id": 3
+        },
+        {
+            "group_id": "sport",
+            "name": "Спорт",
+            "coords": [
+                55.918544565042986,
+                37.75099175453392
+            ],
+            "icon": "images/sport.png",
+            "id": 4
+        }
+    ]
+}
